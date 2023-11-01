@@ -1,0 +1,14 @@
+.conteudo{
+  display: grid;
+  justify-items: center;
+}
+.conteudo img {
+
+  max-width: 600px;
+}
+.conteudo p{
+  font-size: 24px;
+  max-width: 590px;
+  text-align: center;
+}
+
