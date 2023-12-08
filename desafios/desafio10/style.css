@@ -12,7 +12,7 @@
 }
 
 p strong { 
-  color: blue
+  color: black solid
 }
 
 header {
@@ -101,7 +101,7 @@ section p {
 }
 
  p a{
-  color: rgb(196, 26, 26);
+  color: rgb(52, 26, 196);
 }
 
 .desenhos-robos {
