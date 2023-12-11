@@ -47,7 +47,7 @@ section {
   padding-bottom: 10vh;
   padding-left: 40px;
   line-height: 2em;
-  font-size: 3.5vw;
+  font-size: 3.0vw;
   font-family: var(--fonte3);
 }
 section > p {
@@ -58,6 +58,7 @@ section > p {
 .simples {
   background-color: #fff;
   color: black;
+  padding-bottom: 0px;
 }
 
 .imagem {
